@@ -11,7 +11,7 @@ It uses PyThaiNLP, FastAI, and custom Seq2Seq modeling.
 - Designed for government/military style summarization
 
 ## Colab Notebook: Inferance 
-[👉 Open the full training notebook here]([thai_summarizer.ipynb]https://colab.research.google.com/drive/1agNwO2T-ZZZmANmUUvJbfZuuJr-C7MoB?authuser=1)
+[👉 Open the full training notebook here]([[thai_summarizer.ipynb](https://colab.research.google.com/drive/1agNwO2T-ZZZmANmUUvJbfZuuJr-C7MoB?authuser=1)])
 
 ## Requirements
 - Python 3.8+
